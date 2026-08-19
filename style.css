@@ -1,0 +1,32 @@
+body{
+    box-sizing: border-box;
+}
+a{
+    display: inline;
+    content: normal;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+ul{
+    padding: 0;
+}
+li{
+    display: inline-block;
+    border: 2px solid black;
+    margin: 2px;
+    width: 200px;
+    height: 150px;
+}
+h2{
+   height: 30px;
+}
+span{
+    border: 2px solid black;
+    height: 5px;
+}
+.rodape{
+    border: 2px solid black;
+    height: 50px;
+    padding: 20px;
+}
